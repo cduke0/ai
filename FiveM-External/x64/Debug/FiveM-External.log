@@ -1,0 +1,29 @@
+﻿  Features.cpp
+  Render.cpp
+D:\potential nob lee external\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features.cpp')
+  
+D:\potential nob lee external\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Render.cpp')
+  
+D:\potential nob lee external\FiveM-External\Cheat\Render.cpp(185,63): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+D:\potential nob lee external\FiveM-External\Cheat\Render.cpp(218,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\potential nob lee external\FiveM-External\Cheat\Render.cpp(218,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\potential nob lee external\FiveM-External\Cheat\Render.cpp(221,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CPed.cpp
+D:\potential nob lee external\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/SDK/CPed/CPed.cpp')
+  
+  GameSDK.cpp
+D:\potential nob lee external\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/SDK/Game/GameSDK.cpp')
+  
+  Overlay.cpp
+  Globals.cpp
+  Memory.cpp
+  main.cpp
+D:\potential nob lee external\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+LINK : fatal error LNK1168: cannot open D:\potential nob lee external\x64\Debug\FiveM-External.exe for writing
